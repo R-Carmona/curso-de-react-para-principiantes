@@ -1,5 +1,6 @@
 const instrumentos = ['Saxofon', 'Piano','Clarinete']
 
+//Podemos escribir dentro del string expresiones.
 document.write(`El curso es sobre ${instrumentos[0]}`)
 
 const longitud = instrumentos.length;
